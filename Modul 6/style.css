@@ -1,0 +1,12 @@
+.carousel .carousel-item{
+    height: 500px;
+}
+.carousel img{
+    min-height: 500px;
+    object-fit: cover;
+}
+body{
+    background-color: aliceblue
+    background-size: cover;
+    background-repeat: no-repeat;
+}
